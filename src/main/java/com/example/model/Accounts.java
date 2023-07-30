@@ -1,7 +1,5 @@
 package com.example.model;
 
-import org.hibernate.validator.constraints.UniqueElements;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

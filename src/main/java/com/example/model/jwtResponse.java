@@ -58,7 +58,7 @@ public class jwtResponse {
 		public jwtResponse build() {
 			return new jwtResponse(jwtToken, username);
 		}
-		
+			
 		
 	}
 	
